@@ -48,6 +48,10 @@
  
 # Model Architecture
 
-- ANN sequential model with input layers of 64 neurons and activation function = 'relu' ,two hidden layers of 64 neurons and activation function = 'relu' and output layer of 1 neuron with activation function ='linear'
+- ANN sequential model with input layers of 64 neurons and activation function = **'relu'** ,two hidden layers of 64 neurons and activation function = **'relu'** and output layer of 1 neuron with activation function =**'linear'**
 - Optimizer used 'Adam'
-- Loss Function used 'mean_squared_error'
+- Loss Function used **'mean_squared_error'**
+
+# Evaluation
+
+- Metrics used to evaluate the model performance **'mean_absolute_error'** and **'mean_squared_error'**
