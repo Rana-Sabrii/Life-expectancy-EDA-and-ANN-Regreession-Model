@@ -6,6 +6,10 @@
 
 - The project highlightsthe significance of Data Cleaning (Preprocessing) ,Data Exploration (Descriptive Statistics) , and employs professional visualizations to enhance data understanding.
 
+# Kaggle Notebook
+
+[Kaggle Notebook](https://www.kaggle.com/code/ranasabrii/life-expectancy-regression-with-ann)
+
 # Features of dataset
 
 |Feature | Description
